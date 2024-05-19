@@ -17,7 +17,7 @@ The Mental Health Message Generator is a simple JavaScript program that generate
 ### Steps
 1. Clone the repository or create a new directory:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/DaniRossiter/MixedMessages.git
     cd mental-health-message-generator
     ```
 
