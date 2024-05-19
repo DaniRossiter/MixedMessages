@@ -1,12 +1,12 @@
 {
   "name": "message-generator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple program that generates random mental health messages.",
+  "main": "messageGenerator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["mental health", "message generator", "uplifting", "supportive"],
+  "author": "Dani Rossiter",
+  "license": "MIT"
 }
